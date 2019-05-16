@@ -79,4 +79,18 @@ else
 end 
 
 
-
+def shortened_tweet_truncator(tweet)
+  
+    
+  
+  
+end 
+  
+  
+  
+  
+  
+  
+  
+  
+  
