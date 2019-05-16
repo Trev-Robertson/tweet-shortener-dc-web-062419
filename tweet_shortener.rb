@@ -79,7 +79,7 @@ else
 end 
 
 
-def shortened_tweet_truncator(tweet)
+def shortened_tweet_truncator(string)
   
       def word_substituter(string)
   dictionary
