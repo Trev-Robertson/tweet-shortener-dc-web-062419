@@ -100,7 +100,7 @@ end
   if string.length > 140
   a = word_substituter(string)
   
-  
+  a[0..140]
 else
   string
      end
